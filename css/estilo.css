@@ -6,7 +6,7 @@
   
 }
 body {
-    margin: 0;
+    
     box-sizing: border-box;
     height: 100vh;
     background-repeat: no-repeat;
@@ -66,6 +66,7 @@ padding: 10px;
         clip-path: circle(24px at 32px 24px);
         -webkit-transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
         transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
+        
       }
       
       nav:hover {
@@ -79,7 +80,7 @@ padding: 10px;
       }
       
       a {
-        
+        text-decoration: none;
         display: block;
         line-height: 50px;
         padding: 0 20px;
