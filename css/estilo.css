@@ -243,11 +243,43 @@ button:hover { background: #b997b1; }
 
 
                    
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
   button { margin-left: 800px; 
     }
 
-  .logo { margin-left: 350px;
+    bory url {
+padding: 0px;
+
+    }
+button {
+  margin-left: 600px;
+  margin-top: 50px;
+}
+
+ul  {
+
+font-size: 14px;
+padding-top: 120px;
+
+}
+
+.cont img {
+  width: 400px;
+  height: 200px;
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+  /*.logo { margin-left: 350px;
     margin-top: 70px;
     }
 
